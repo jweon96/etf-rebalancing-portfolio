@@ -23,8 +23,8 @@
 **Colab**: 위 배지 클릭 → 상단 CONFIG(기간/비중/수수료) 조정 → 전체 실행  
 **Local**
 ```bash
-git clone https://github.com/<jweon96>/<etf-rebalancing-portfolio>.git
-cd <etf-rebalancing-portfolio>
+git clone https://github.com/jweon96/etf-rebalancing-portfolio.git
+cd etf-rebalancing-portfolio
 pip install -r requirements.txt
 jupyter lab
 ```
